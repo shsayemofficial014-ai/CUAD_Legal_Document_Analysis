@@ -1,0 +1,21 @@
+ID,Contract Type,Sub-type,Source,Origin,Pages,Notes
+C01,NDA,Mutual NDA,SEC EDGAR (10-K exhibit),EDGAR,4,Anchor doc to compare against CUAD-style filings
+C02,NDA,Mutual NDA,Law Insider,Public,3,Standard two-way confidentiality template
+C03,NDA,Unilateral NDA,eForms,Template,2,"One-way disclosure, employer-to-contractor"
+C04,NDA,Employee NDA,SCORE.org,Template,3,Small-business employee confidentiality form
+C05,NDA,Unilateral NDA,Rocket Lawyer,Template,2,Includes non-solicit + non-disparagement clauses
+C06,NDA,Mutual NDA,GitHub (open contract templates),Public,3,"Markdown template, startup-oriented"
+C07,NDA,Investor NDA,Law Insider,Public,5,"Pre-investment due-diligence NDA, longer"
+C08,Freelance,Service Agreement,HelloBonsai,Template,4,"Freelance design services, includes IP assignment"
+C09,Freelance,Independent Contractor,eForms,Template,5,"Generic IC agreement, payment + termination terms"
+C10,Freelance,Web Dev Agreement,SEC EDGAR (S-1 exhibit),EDGAR,8,Anchor: filed services agreement
+C11,Freelance,Consulting Agreement,SCORE.org,Template,6,"Consulting scope, deliverables, non-compete"
+C12,Freelance,Statement of Work,Law Insider,Public,3,SOW appendix with minimum commitment clause
+C13,Freelance,Graphic Design Contract,UpCounsel,Template,4,Includes license grant + revision terms
+C14,Freelance,Writing/Content Agreement,Rocket Lawyer,Template,3,Copyright assignment + kill fee
+C15,Rental,Residential Lease,California DCA (.gov),Govt,9,State-standard residential lease
+C16,Rental,Residential Lease,Florida Realtors / Bar form,Govt,12,Long standardized lease form
+C17,Rental,Month-to-Month Rental,eForms,Template,4,Short tenancy-at-will agreement
+C18,Rental,Commercial Lease,Law Insider,Public,11,"Commercial lease, audit + insurance clauses"
+C19,Rental,Room Rental Agreement,LawDepot,Template,5,Roommate/room rental form
+C20,Rental,Sublease Agreement,HUD / public housing form,Govt,6,Sublease with anti-assignment clause
