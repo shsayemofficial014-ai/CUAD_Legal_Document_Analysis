@@ -1,0 +1,42 @@
+No.,CUAD Clause Type,Functional Group,Risk Level,Reason
+1,Document Name,General Info,Low,Simply names the contract type and carries no obligation; useful for filing and reference only.
+2,Parties,General Info,Low,Identifies who is legally bound; foundational metadata that creates no risk on its own.
+3,Agreement Date,General Info,Low,A reference date for when the contract was signed; informational with no direct exposure.
+4,Effective Date,General Info,Low,Marks when obligations begin; needs awareness for timing but is standard and non-contentious.
+5,Expiration Date,General Info,Low,States when the contract naturally ends; important for planning but routine and predictable.
+6,Renewal Term,General Info,Medium,Automatic renewals can silently lock a party into another full term if not actively managed.
+7,Notice Period to Terminate Renewal,General Info,Medium,"Missing the notice window forces an unwanted renewal, so the deadline must be tracked carefully."
+8,Governing Law,General Info,Low,"Sets the jurisdiction for disputes; affects litigation venue but is a standard, expected provision."
+9,Most Favored Nation,Restrictive Covenant,Medium,"Forces a party to always offer its best terms, constraining future pricing and squeezing margins."
+10,Non-Compete,Restrictive Covenant,High,"Bars a party from competing for a period, directly limiting future income and business freedom."
+11,Exclusivity,Restrictive Covenant,High,"Locks a party to a single counterparty, forfeiting other deals and concentrating dependency risk."
+12,No-Solicit of Customers,Restrictive Covenant,Medium,"Restricts approaching the other side's customers, narrowing market reach but more limited than a non-compete."
+13,Competitive Restriction Exception,Restrictive Covenant,Low,"A carve-out that loosens other restrictions, so it favors the signing party rather than exposing it."
+14,No-Solicit of Employees,Restrictive Covenant,Medium,Limits hiring from the counterparty's staff; a manageable constraint on recruitment with legal awareness.
+15,Non-Disparagement,Restrictive Covenant,Medium,"Restricts public criticism of the other party, creating speech and potential reputational/legal exposure."
+16,Termination For Convenience,General Info,Medium,"Lets the other side exit at any time, creating revenue uncertainty and weak commitment to the deal."
+17,Rofr/Rofo/Rofn,Restrictive Covenant,Medium,"Gives the counterparty first rights on future deals, limiting freedom to transact with third parties."
+18,Change of Control,General Info,Medium,"Can trigger consent rights or termination on a sale or merger, complicating future M&A and restructuring."
+19,Anti-Assignment,Restrictive Covenant,Medium,"Blocks transferring the contract without consent, reducing flexibility in restructuring or acquisition."
+20,Revenue/Profit Sharing,Revenue & Liability,High,"Commits a party to hand over a share of revenue or profit, a direct and ongoing financial drain."
+21,Price Restrictions,Revenue & Liability,Medium,"Caps or controls pricing freedom, limiting the ability to respond to market conditions."
+22,Minimum Commitment,Revenue & Liability,High,"Obligates a guaranteed minimum spend or volume regardless of actual need, a fixed financial exposure."
+23,Volume Restriction,Revenue & Liability,Medium,"Caps the quantity that can be bought or sold, constraining the scale of the business relationship."
+24,IP Ownership Assignment,IP & Termination,High,"Transfers ownership of intellectual property away, permanently surrendering a potentially core asset."
+25,Joint IP Ownership,IP & Termination,Medium,"Splits IP rights between parties, creating co-ownership complications but stopping short of full loss."
+26,License Grant,IP & Termination,Medium,Grants rights to use IP; the breadth and scope of the grant determine how much value is given away.
+27,Non-Transferable License,IP & Termination,Low,A license that cannot be reassigned; a minor restriction on a right the party is receiving.
+28,Affiliate License-Licensor,IP & Termination,Low,"Extends a granted license to the licensor's affiliates; a narrow, routine scope detail."
+29,Affiliate License-Licensee,IP & Termination,Low,Extends a received license to the licensee's affiliates; generally favorable and low-impact.
+30,Unlimited/All-You-Can-Eat-License,IP & Termination,Medium,"Grants uncapped usage rights, which can erode a licensor's revenue if the party is granting the license."
+31,Irrevocable Or Perpetual License,IP & Termination,High,"Cannot be revoked or expires never, permanently surrendering control over the licensed IP."
+32,Source Code Escrow,IP & Termination,Medium,"Requires depositing source code for release on trigger events, exposing sensitive IP under conditions."
+33,Post-Termination Services,IP & Termination,Medium,"Obligates continued service after the contract ends, an ongoing burden beyond the intended term."
+34,Audit Rights,Revenue & Liability,Medium,"Allows the counterparty to inspect records, creating a compliance burden and exposure to disputes."
+35,Uncapped Liability,Revenue & Liability,High,"Exposes a party to unlimited damages with no ceiling, the single largest financial risk in a contract."
+36,Cap On Liability,Revenue & Liability,Medium,Limits damages to a set amount; protective in principle but the cap level can be too low or too high to be fair.
+37,Liquidated Damages,Revenue & Liability,High,"Pre-sets a fixed penalty payable on breach, a concrete and often large financial exposure."
+38,Warranty Duration,Revenue & Liability,Medium,"Defines how long warranty obligations last, setting the window of post-delivery liability."
+39,Insurance,Revenue & Liability,Medium,"Requires maintaining specified coverage, an ongoing cost and compliance obligation."
+40,Covenant Not To Sue,Revenue & Liability,Medium,"Waives the right to bring certain legal claims, giving up legal recourse within its scope."
+41,Third Party Beneficiary,General Info,Low,Lets non-signatories enforce certain terms; expands who can claim but is usually narrow and standard.
