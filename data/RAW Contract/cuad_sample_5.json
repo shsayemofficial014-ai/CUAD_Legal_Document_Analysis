@@ -1,0 +1,1437 @@
+{
+ "version": "aok_v1.0",
+ "data": [
+  {
+   "title": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT",
+   "paragraphs": [
+    {
+     "context": "EXHIBIT 10.6\n\n                              DISTRIBUTOR AGREEMENT\n\n         THIS  DISTRIBUTOR  AGREEMENT (the  \"Agreement\")  is made by and between Electric City Corp.,  a Delaware  corporation  (\"Company\")  and Electric City of Illinois LLC (\"Distributor\") this 7th day of September, 1999.\n\n                                    RECITALS\n\n         A. The  Company's  Business.  The Company is  presently  engaged in the business  of selling an energy  efficiency  device,  which is  referred to as an \"Energy  Saver\"  which may be improved  or  otherwise  changed  from its present composition (the \"Products\").  The Company may engage in the business of selling other  products  or  other  devices  other  than  the  Products,  which  will be considered  Products if Distributor  exercises its options pursuant to Section 7 hereof.\n\n         B. Representations.  As an inducement to the Company to enter into this Agreement,  the  Distributor  has  represented  that  it has or  will  have  the facilities,  personnel,  and financial capability to promote the sale and use of Products.  As an  inducement  to  Distributor  to enter into this  Agreement the Company has  represented  that it has the  facilities,  personnel  and financial capability to have the Products  produced and supplied as needed pursuant to the terms hereof.\n\n         C. The Distributor's  Objectives.  The Distributor  desires to become a distributor  for the Company and to develop  demand for and sell and  distribute Products  solely  for the use within the State of  Illinois,  including  but not limited to public  and  private  entities,  institutions,  corporations,  public schools, park districts,  corrections facilities,  airports,  government housing authorities and other government agencies and facilities (the \"Market\").\n\n         D. The Company's  Appointment.  The Company appoints the Distributor as an  exclusive  distributor  of Products in the Market,  subject to the terms and conditions of this Agreement.\n\n         1.       ESTABLISHMENT OF DISTRIBUTORSHIP\n\n                  1.1      Grant  and   Acceptance.   Company  hereby   appoints                            Distributor as Company's exclusive distributor within                            the Market and grants to  Distributor  the  exclusive                            right  to sell and  distribute  Products  within  the                            Market,   and   Distributor   hereby   accepts   such                            appointment  and such grant,  in accordance  with the                            terms and conditions of this  Agreement.  Distributor                            acknowledges that customers of other  distributors of                            the Products may have sites,  locations or operations                            in  the   Market,   which  will  use  the   Products.                            Distributor  will sell any and all Products  required                            by such  customers in the Market to those  customers.                            Distributor also  acknowledges  that if its customers                            have  sites,  locations  or  operations  outside  the                            Market,   in  the   market   of   another   exclusive                            distributor of the Products,  those customers will be                            required to  purchase  products  from the  applicable                            exclusive  distributor  in  that  market;  otherwise,                            Distributor shall be free to sell to its customers in                            any  market  which  does not have  another  exclusive                            distributor.\n\n                  1.2      License.  The Company  hereby grants the  Distributor                            the right to do business  and use the name  \"Electric                            City of  Illinois\"  or a  similar  variation  thereof                            (collectively   the   \"Names\")  for  use  under  this                            Agreement.  Distributor may file with the appropriate                            state and local authorities assumed name certificates                            as required.  Copies of all documents relating to the                            use of the Names shall be  forwarded  to the Company.                            Upon termination of this Agreement  Distributor shall                            have no further  right to the Names and said  License                            to use the Names shall terminate.  Distributor  shall                            have  no  right  to  sublicense  the  Names  or to do                            business  under any other names without the Company's                            prior  approval in writing.  The parties  acknowledge                            that the  terms  herein  consist  of there  terms for                            Illinois.  At the  request  of  either  party,  a new                            agreement reflecting the terms and conditions of this                            Agreement,  may be executed  for each state or entity                            representing each state.\n\n\n\n\n\n                  1.3      Term.  The term of this  Agreement  shall be ten (10)                            years (the \"Term\")  which shall  commence on the date                            upon which the Company  delivers to  Distributor  the                            last Sample, as defined  hereinafter.  If Distributor                            complies with all of the terms of this Agreement, the                            Agreement  shall be  renewable on an annual basis for                            one (1) year terms for up to  another  ten (10) years                            on the same terms and conditions as set forth herein.                            All renewals of this  Agreement  shall be on the same                            terms and ",
+     "qas": [
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Document Name",
+       "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+       "answers": [
+        {
+         "text": "DISTRIBUTOR AGREEMENT",
+         "answer_start": 44
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Parties",
+       "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+       "answers": [
+        {
+         "text": "Distributor",
+         "answer_start": 244
+        },
+        {
+         "text": "Electric City Corp.",
+         "answer_start": 148
+        },
+        {
+         "text": "Company",
+         "answer_start": 197
+        },
+        {
+         "text": "Electric City of Illinois LLC",
+         "answer_start": 212
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Agreement Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+       "answers": [
+        {
+         "text": "7th day of September, 1999.",
+         "answer_start": 263
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Effective Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+       "answers": [
+        {
+         "text": "The term of this  Agreement  shall be ten (10)                            years (the \"Term\")  which shall  commence on the date                            upon which the Company  delivers to  Distributor  the                            last Sample, as defined  hereinafter.",
+         "answer_start": 5268
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Expiration Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+       "answers": [
+        {
+         "text": "The term of this  Agreement  shall be ten (10)                            years (the \"Term\")  which shall  commence on the date                            upon which the Company  delivers to  Distributor  the                            last Sample, as defined  hereinafter.",
+         "answer_start": 5268
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Renewal Term",
+       "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+       "answers": [
+        {
+         "text": "If Distributor                            complies with all of the terms of this Agreement, the                            Agreement  shall be  renewable on an annual basis for                            one (1) year terms for up to  another  ten (10) years                            on the same terms and conditions as set forth herein.",
+         "answer_start": 5543
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Notice Period To Terminate Renewal",
+       "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Governing Law",
+       "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Most Favored Nation",
+       "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Non-Compete",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Exclusivity",
+       "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+       "answers": [
+        {
+         "text": "Company  hereby   appoints                            Distributor as Company's exclusive distributor within                            the Market and grants to  Distributor  the  exclusive                            right  to sell and  distribute  Products  within  the                            Market,   and   Distributor   hereby   accepts   such                            appointment  and such grant,  in accordance  with the                            terms and conditions of this  Agreement.",
+         "answer_start": 2112
+        },
+        {
+         "text": "The Company appoints the Distributor as an  exclusive  distributor  of Products in the Market,  subject to the terms and conditions of this Agreement.",
+         "answer_start": 1854
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__No-Solicit Of Customers",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Competitive Restriction Exception",
+       "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__No-Solicit Of Employees",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Non-Disparagement",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Termination For Convenience",
+       "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Rofr/Rofo/Rofn",
+       "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Change Of Control",
+       "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Anti-Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Revenue/Profit Sharing",
+       "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Price Restrictions",
+       "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Minimum Commitment",
+       "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Volume Restriction",
+       "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Ip Ownership Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Joint Ip Ownership",
+       "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__License Grant",
+       "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+       "answers": [
+        {
+         "text": "Company  hereby   appoints                            Distributor as Company's exclusive distributor within                            the Market and grants to  Distributor  the  exclusive                            right  to sell and  distribute  Products  within  the                            Market,   and   Distributor   hereby   accepts   such                            appointment  and such grant,  in accordance  with the                            terms and conditions of this  Agreement.",
+         "answer_start": 2112
+        },
+        {
+         "text": "The Company  hereby grants the  Distributor                            the right to do business  and use the name  \"Electric                            City of  Illinois\"  or a  similar  variation  thereof                            (collectively   the   \"Names\")  for  use  under  this                            Agreement.",
+         "answer_start": 3756
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Non-Transferable License",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Affiliate License-Licensor",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Affiliate License-Licensee",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Unlimited/All-You-Can-Eat-License",
+       "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Irrevocable Or Perpetual License",
+       "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Source Code Escrow",
+       "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Post-Termination Services",
+       "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Audit Rights",
+       "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Uncapped Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Cap On Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Liquidated Damages",
+       "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Warranty Duration",
+       "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Insurance",
+       "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Covenant Not To Sue",
+       "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Third Party Beneficiary",
+       "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+       "answers": [],
+       "is_impossible": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT",
+   "paragraphs": [
+    {
+     "context": "Exhibit 10.26    CONFIDENTIAL TREATMENT HAS BEEN REQUESTED AS TO CERTAIN PORTIONS OF THIS DOCUMENT. EACH SUCH PORTION,  WHICH HAS BEEN OMITTED HEREIN AND REPLACED WITH AN ASTERISK [*], HAS BEEN FILED SEPARATELY WITH THE  SECURITIES AND EXCHANGE COMMISSION.     PROMOTION AND DISTRIBUTION AGREEMENT     This Promotion and Distribution Agreement including all exhibits (collectively referred to as the \"Agreement\"), effective as of 1 August 2011 (the  \"Effective Date\"), is made by and between Whitesmoke Inc., with registered offices/principle place of business at 501 Silverside Road, Suite 105,  Wilmington DE 19809, USA, (\"Distributor\"), and Google Inc whose principle place of business is at 1600 Amphitheatre Parkway, Mountain View,  CA 94043, USA (\"Google\").\n\n\n\n   \"Bundle\" means the Distribution Products bundled with the Distributor App(s).     \"Chrome Browser\" means the machine-readable binary code version of the Google Chrome browser provided to Distributor in connection with  this Agreement, and any modifications or updates to it that Google may provide to Distributor.     \"Chrome Browser Installer\" means: (a) the machine-readable binary code version of the installer provided to Distributor in connection with this  Agreement that installs the Chrome Browser, and any modifications, updates or upgrades to it that Google may provide to Distributor; and (b) the  Chrome Browser Criteria Checker.     \"Chrome Use Event\" means an event that indicates an [* ] has occurred.     \"Chrome Server Communication\" means a communication that, as determined solely by Google, is sent for the purpose of indicating that an End  User: (a) is [* ] to the [* ]; and (b) has kept the [* ] open for a minimum of [* ] during a [* ] (whether during the [* ] or a [* ] of the Chrome  Browser).     \"Criteria Checker\" means a set of software routines (and any updates to them) provided to Distributor by Google, as part of a software library,  that check certain criteria (as determined by Google and modified by Google from time to time) to determine if the Chrome Browser or Google  Toolbar (as applicable) can be installed on an End User's operating system. Accordingly, \"Chrome Browser Criteria Checker\" means the Criteria  Checker provided by Google in respect of the Chrome Browser and \"Google Toolbar Criteria Checker\" means the Criteria Checker provided by  Google in respect of the Google Toolbar.     \"Distributor App(s)\" means the following application (and successor versions of such software): the trial version of the WhiteSmoke Writer  (currently called WhiteSmoke 2011) available on a worldwide basis, but for the avoidance of doubt shall not mean any other products of  Distributor, including without limitation the full paid version of Whitesmoke Writer or any version of Whitesmoke \"Translator\" software,  regardless of whether Whitesmoke Writer incorporates any translation functionality.     *Confidential treatment requested  Google Confidential\n\n1. DEFINITIONS\n\n1.1 In this Agreement unless expressly stated otherwise:\n\n  - 1 -\n\n\n\n\n\n   \"Distribution Products\" means:\n\n\n\n\n\n   \"End User\" means an end user customer of Distributor who is located in the Territory.     \"EULA\" means the end user license agreement applicable to a Product, which end user license agreement may be updated or modified by Google in  its sole discretion from time to time.     \"False\" means a \"false\" response (or equivalent negative response) given by the Criteria Checker.     \"Google Program Guidelines\" means the policy and implementation guidelines applicable to the Products as updated by Google and provided to  Distributor from time to time.     \"Google Toolbar\" means the machine-readable binary code version of the Google toolbar for Internet Explorer provided to Distributor in  connection with this Agreement, and any modifications or updates to it that Google may provide to Distributor.     \"Google Toolbar Installer\" means: (a) the machine-readable binary code version of the installer provided to Distributor in connection with this  Agreement that installs the Google Toolbar, and any modifications, updates or upgrades to it that Google may provide to Distributor; and (b) the  Google Toolbar Criteria Checker.     \"Google Trademarks\" means all names, trade names, trademarks, and logos used by Google in connection with the Products.     \"Group Company\" means in relation to each of the parties:\n\n\n\n   \"Install Completed\" occurs when an End User has completed the install process for a Bundle and the install completed screen is shown to the End  User in accordance with Exhibit B.\n\n\n\n  (a) as at the Effective Date, the Google Toolbar Installer and the Chrome Browser Installer; and\n\n  (b) if Distributor notifies Google at any time after the Effective Date that it wishes to bundle the full Google Toolbar and Google  provides its approval in writing (including email), the Google Toolbar; and\n\n  (c) if Distributor notifies Google at any time after the Effective Date that it wishes to bundle the full Chrome Browser and Google  provides its approval in writing (including email), the Chrome Browser.\n\n  (a) any parent company of that party; and\n\n  (b) any corporate body of which that party directly or indirectly has control or which is directly or indirectly controlled by the same  person or group of persons as that party.\n\n  - 2 -\n\n\n\n\n\n  \"Intellectual Property Rights\" means all copyright, moral rights, patent rights, trade marks, design right, rights in or relating to databases, rights in  or relating to confidential information, rights in relation to domain names, and any other intellectual property rights (registered or unregistered)  throughout the world.     \"IPO\" means an initial public offering of all or any of the shares in Distributor or securities representing those shares for the purposes of being  publically traded or quoted on an investment exchange.     \"Maximum Distribution Commitment\" means [* ] , as may be increased by Google pursuant to Clause 4.2 (Ma",
+     "qas": [
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Document Name",
+       "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+       "answers": [
+        {
+         "text": "Promotion and Distribution Agreement",
+         "answer_start": 307
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Parties",
+       "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+       "answers": [
+        {
+         "text": "Distributor",
+         "answer_start": 625
+        },
+        {
+         "text": "Google",
+         "answer_start": 644
+        },
+        {
+         "text": "Google Inc",
+         "answer_start": 644
+        },
+        {
+         "text": "Whitesmoke Inc.",
+         "answer_start": 492
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Agreement Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Effective Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+       "answers": [
+        {
+         "text": "1 August 2011",
+         "answer_start": 430
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Expiration Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Renewal Term",
+       "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Notice Period To Terminate Renewal",
+       "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Governing Law",
+       "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Most Favored Nation",
+       "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Non-Compete",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Exclusivity",
+       "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__No-Solicit Of Customers",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Competitive Restriction Exception",
+       "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__No-Solicit Of Employees",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Non-Disparagement",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Termination For Convenience",
+       "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Rofr/Rofo/Rofn",
+       "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Change Of Control",
+       "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Anti-Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Revenue/Profit Sharing",
+       "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Price Restrictions",
+       "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Minimum Commitment",
+       "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Volume Restriction",
+       "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Ip Ownership Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Joint Ip Ownership",
+       "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__License Grant",
+       "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Non-Transferable License",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Affiliate License-Licensor",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Affiliate License-Licensee",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Unlimited/All-You-Can-Eat-License",
+       "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Irrevocable Or Perpetual License",
+       "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Source Code Escrow",
+       "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Post-Termination Services",
+       "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Audit Rights",
+       "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Uncapped Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Cap On Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Liquidated Damages",
+       "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Warranty Duration",
+       "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Insurance",
+       "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Covenant Not To Sue",
+       "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT__Third Party Beneficiary",
+       "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+       "answers": [],
+       "is_impossible": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement",
+   "paragraphs": [
+    {
+     "context": "Exhibit 10.16 SUPPLY CONTRACT Contract No: Date: The buyer/End-User: Shenzhen LOHAS Supply Chain Management Co., Ltd. ADD: Tel No. : Fax No. : The seller: ADD: The Contract is concluded and signed by the Buyer and Seller on , in Hong Kong. 1. General provisions 1.1 This is a framework agreement, the terms and conditions are applied to all purchase orders which signed by this agreement (hereinafter referred to as the \"order\"). 1.2 If the provisions of the agreement are inconsistent with the order, the order shall prevail. Not stated in order content will be subject to the provisions of agreement. Any modification, supplementary, give up should been written records, only to be valid by buyers and sellers authorized representative signature and confirmation, otherwise will be deemed invalid. 2. The agreement and order 2.1 During the validity term of this agreement, The buyer entrust SHENZHEN YICHANGTAI IMPORT AND EXPORT TRADE CO., LTD or SHENZHEN LEHEYUAN TRADING CO, LTD (hereinafter referred to as the \"entrusted party\" or \"YICHANGTAI\" or \"LEHEYUAN\"), to purchase the products specified in this agreement from the seller in the form of orders. 2.2 The seller shall be confirmed within three working days after receipt of order. If the seller finds order is not acceptable or need to modify, should note entrusted party in two working days after receipt of the order, If the seller did not confirm orders in time or notice not accept orders or modifications, the seller is deemed to have been accepted the order. The orders become effective once the seller accepts, any party shall not unilaterally cancel the order before the two sides agreed . 2.3 If the seller puts forward amendments or not accept orders, the seller shall be in the form of a written notice to entrusted party, entrusted party accept the modified by written consent, the modified orders to be taken effect. 2.4 Seller's note, only the buyer entrust the entrusted party issued orders, the product delivery and payment has the force of law.\n\n1\n\nSource: LOHA CO. LTD., F-1, 12/9/2019\n\n\n\n\n\n3. GOODS AND COUNTRY OF ORIGIN: 4. Specific order: The products quantity, unit price, specifications, delivery time and transportation, specific content shall be subject to the purchase order issued by entrusted party which is commissioned the buyer. 5. PACKING: To be packed in new strong wooden case(s) /carton(s), suitable for long distance transportation and for the change of climate, well protected against rough handling, moisture, rain, corrosion, shocks, rust, and freezing. The seller shall be liable for any damage and loss of the commodity, expenses incurred on account of improper packing, and any damage attributable to inadequate or improper protective measures taken by the seller in regard to the packing. One full set of technical All wooden material of shipping package must be treated as the requirements of Entry-Exit Inspection and Quarantine Bureau of China, by the agent whom is certified by the government where the goods is exported. And the goods must be marked with the IPPC stamps, which are certified by the government agent of Botanical-Inspection and Quarantine Bureau. 6. SHIPPING MARK: The Sellers shall mark on each package with fadeless paint the package number, gross weight, net weight, measurements and the wordings: \"KEEP AWAY FROM MOISTURE\",\"HANDLE WITH CARE\" \"THIS SIDE UP\" etc. and the shipping mark on each package with fadeless paint. 7. DATE OF SHIPMENT: According to specific order by YICHANGTAI or LEHEYUAN. 8. PORT OF SHIPMENT:\n\n2\n\nSource: LOHA CO. LTD., F-1, 12/9/2019\n\n\n\n\n\n9. PORT OF DESTINATION: SHENZHEN, GUANGDONG, CHINA 10. INSURANCE: To be covered by the Seller for 110% invoice value against All Risks and War Risk. 11. PAYMENT: Under Letter of Credit or T/T: Under the Letter of Credit: The Buyer shall open an irrevocable letter of credit with the bank within 30 days after signing the contract, in favor of the Seller, for 100% value of the total contract value. The letter of credit should state that partial shipments are allowed. The Buyer's agent agrees to pay for the goods in accordance with the actual amount of the goods shipped. 80% of the system value being shipped will be paid against the documents stipulated in Clause 12.1. The remaining 20% of the system value being shipped will be paid against the documents stipulated in Clause 12.2. The Letter of Credit shall be valid until 90 days after the latest shipment is effected. Under the T/T The trustee of the buyer remitted the goods to the seller by telegraphic transfer in batches as agreed upon after signing each order. 12. DOCUMENTS: 12.1 (1) Invoice in 5 originals indicating contract number and Shipping Mark (in case of more than one shipping mark, the invoice shall be issued separately). (2) One certificate of origin of the goods. (3) Four original copies of the packing list. (4) Certificate of Quality and Quantity in 1 original issued by the agriculture products base. (5) One copy of insurance coverage (6) Copy of cable/letter to the transportation department of Buyer advising of particulars as to shipment immediately after shipment is made.\n\n3\n\nSource: LOHA CO. LTD., F-1, 12/9/2019\n\n\n\n\n\n12.2 (1) Invoice in 3 originals indicating contract number and L/C number. (2) Final acceptance certificate signed by the Buyer and the Seller. 13. SHIPMENT: CIP The seller shall contract on usual terms at his own expenses for the carriage of the goods to the agreed point at the named place of destination and bear all risks and expenses until the goods have been delivered to the port of destination. The Sellers shall ship the goods within the shipment time from the port of shipment to the port of destination. Transshipment is allowed. Partial Shipment is allowed. In case the goods are to be dispatched by parcel post/sea-freight, the Sellers shall, 3 days before the time of delivery, inform the Buyers by cable/letter of the estimated date of delivery, Contract No., commodity, invoiced valu",
+     "qas": [
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Document Name",
+       "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+       "answers": [
+        {
+         "text": "SUPPLY CONTRACT",
+         "answer_start": 14
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Parties",
+       "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+       "answers": [
+        {
+         "text": "The seller:",
+         "answer_start": 143
+        },
+        {
+         "text": "The buyer/End-User: Shenzhen LOHAS Supply Chain Management Co., Ltd.",
+         "answer_start": 49
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Agreement Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Effective Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Expiration Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Renewal Term",
+       "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Notice Period To Terminate Renewal",
+       "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Governing Law",
+       "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Most Favored Nation",
+       "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Non-Compete",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Exclusivity",
+       "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__No-Solicit Of Customers",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Competitive Restriction Exception",
+       "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__No-Solicit Of Employees",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Non-Disparagement",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Termination For Convenience",
+       "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Rofr/Rofo/Rofn",
+       "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Change Of Control",
+       "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Anti-Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Revenue/Profit Sharing",
+       "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Price Restrictions",
+       "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Minimum Commitment",
+       "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Volume Restriction",
+       "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Ip Ownership Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Joint Ip Ownership",
+       "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__License Grant",
+       "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Non-Transferable License",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Affiliate License-Licensor",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Affiliate License-Licensee",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Unlimited/All-You-Can-Eat-License",
+       "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Irrevocable Or Perpetual License",
+       "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Source Code Escrow",
+       "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Post-Termination Services",
+       "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Audit Rights",
+       "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Uncapped Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Cap On Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Liquidated Damages",
+       "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Warranty Duration",
+       "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Insurance",
+       "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+       "answers": [
+        {
+         "text": "To be covered by the Seller for 110% invoice value against All Risks and War Risk.",
+         "answer_start": 3659
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Covenant Not To Sue",
+       "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement__Third Party Beneficiary",
+       "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+       "answers": [],
+       "is_impossible": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT",
+   "paragraphs": [
+    {
+     "context": "1                                                                     Exhibit 10.3\n\nI-on. (LOGO) www.i-on.com 561.394.9484 o 561.394-9773 fax 1733 avenida del sol, boca raton, florida, 33432\n\nWEB SITE HOSTING AGREEMENT\n\nThis WEB SITE HOSTING AGREEMENT (\"this Agreement\") is entered into this 6th day of April, 1999 by and between Centrack International, a Florida corporation (\"the Customer\"), and i-on interactive, a Florida corporation (\"i-on\").\n\nDEFINITIONS\n\nAs used in this Agreement, the term \"Web site\" shall mean a computer system intended to be accessed through the World Wide Web segment of the Internet, including software and content intended to be viewed and/or operated upon by persons accessing the computer system via the Internet. A Web site may exist on a single computer system with other Web sites.\n\nThe term \"Hosted Site\" shall mean the Web site of the Customer that is hosted by i-on under the terms and conditions of this Agreement.\n\nThe term \"Hosting Computer\" shall mean the computer system and related equipment on which the Hosted Site exists.\n\nSERVICES PROVIDED TO THE CUSTOMER\n\ni-on will maintain the operation of the Hosted Site continuously, twenty-four (24) hours per day, seven (7) days per week, including holidays, with the exception of reasonable hardware and software maintenance that must be performed on the Hosting Computer and/or the Hosted Site. i-on will use best efforts to schedule and perform such maintenance between the hours of 8pm and 8am Eastern Standard Time on weekdays, or during weekends.\n\nUnder this Agreement, i-on will provide the following limited services for the Hosted Site:\n\n      1. connectivity to the Internet via a T1 (that may be shared by other             Web sites) to a leading Internet backbone access provider such as             UUNET, and reasonable efforts to maintain such connectivity with the             phone company and the Internet backbone access provider;\n\n      2. use of the Hosting Computer (that may be shared by other Web sites)             as described in this Agreement and maintenance required to keep such             Hosting Computer in good working order;\n\n      3. physical space for the Hosting Computer at a facility that maintains             proper environmental conditions in the area(s) where the Hosting             Computer is located and maintains reasonable efforts to prevent             unauthorized access to the physical location of the Hosting             Computer;\n\n      4. an emergency electrical power backup system for the Hosting             Computer;\n\n      5. up to 150 MB of mirrored computer storage on the Hosting Computer;\n\n      6. archival backups of such mirrored computer storage on a weekly             basis;    2          7.  off-site storage of such backups at separate facility than the              location of the Hosting Computer;\n\n      8.  use of the Microsoft Windows NT Server 4.0 or higher operating              system software for the Hosting Computer and the Hosted Site;\n\n      9.  use of the Microsoft Internet Information Service (IIS) 3.0 or              higher Web server software for the Hosted Site (providing support              for the HTTP Web protocol);\n\n      10. use of the Microsoft SQL Server 6.5 or higher database server              software for the Hosted Site, within the boundaries of allocated              computer storage, per #5 above;\n\n      11. access to the Hosted Site via the ftp protocol to an administrative              account designated by the Customer for the Customer to maintain the              Hosted Site's static content (such as HTML Web pages and computer              graphics);\n\n      12. up to 10 mailboxes accessible via the POP3 mail protocol that are              mapped to the Hosted Site's Internet address;\n\n      13. up to 1 hour per month of Web site administration services at no              additional charge, limited to:\n\n               requests for changes to ftp/e-mail users and passwords;                   requests for e-mail configuration changes;                   modification of mail aliases;                   changes to server MIME types;                   files restored from backup;\n\n\n\n\n\n               answering questions about server-side scripts;                   ftp configuration changes;                   log file configuration changes;                   importing or exporting of database records;                   and consultation on site operation and administration.\n\n          Additional Web site administration services will be billed at $200              per hour.\n\n      14. a monthly report of user activity on the Hosted Site.\n\nRESPONSIBILITIES OF THE CUSTOMER\n\nThe Customer is responsible for paying i-on the recurring monthly fee in the amount of $450. The Customer is responsible for paying the recurring monthly fees by the 5th day of each month beginning in April 1, 1999. The Customer acknowledges that failure to pay such fees in a timely manner will result in the interruption or discontinuation of services for the Hosted Site.\n\nThe Customer is solely responsible for all content on the Hosted Site, including but not limited to, HTML pages, graphics, sounds, animations, video clips, Java applets, client-site scripts such as JavaScript and VBScript features, ActiveX controls, and other files and/or executable components for use or download by the users of the Hosted Site, as well as the accuracy and validity of any information or data contained within, as well as the overall look-and-feel of the Hosted Site from a user's perspective. The Customer is solely responsible for the ongoing maintenance of such content. The Customer acknowledges that this Agreement is explicitly not an agreement for i-on to provide content creation or maintenance services for the Hosted Site.\n\nThe Customer is solely responsible for all customer support required by users of Hosted Site. In the case of a problem with the Hosted Site that is the responsibility of i-o",
+     "qas": [
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Document Name",
+       "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+       "answers": [
+        {
+         "text": "WEB SITE HOSTING AGREEMENT",
+         "answer_start": 225
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Parties",
+       "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+       "answers": [
+        {
+         "text": "Centrack International",
+         "answer_start": 330
+        },
+        {
+         "text": "the Customer",
+         "answer_start": 378
+        },
+        {
+         "text": "i-on",
+         "answer_start": 101
+        },
+        {
+         "text": "i-on interactive",
+         "answer_start": 398
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Agreement Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+       "answers": [
+        {
+         "text": "6th day of April, 1999",
+         "answer_start": 292
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Effective Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Expiration Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Renewal Term",
+       "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Notice Period To Terminate Renewal",
+       "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Governing Law",
+       "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Most Favored Nation",
+       "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Non-Compete",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Exclusivity",
+       "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__No-Solicit Of Customers",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Competitive Restriction Exception",
+       "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__No-Solicit Of Employees",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Non-Disparagement",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Termination For Convenience",
+       "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Rofr/Rofo/Rofn",
+       "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Change Of Control",
+       "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Anti-Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Revenue/Profit Sharing",
+       "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Price Restrictions",
+       "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Minimum Commitment",
+       "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Volume Restriction",
+       "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Ip Ownership Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Joint Ip Ownership",
+       "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__License Grant",
+       "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Non-Transferable License",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Affiliate License-Licensor",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Affiliate License-Licensee",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Unlimited/All-You-Can-Eat-License",
+       "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Irrevocable Or Perpetual License",
+       "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Source Code Escrow",
+       "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Post-Termination Services",
+       "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Audit Rights",
+       "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Uncapped Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Cap On Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Liquidated Damages",
+       "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Warranty Duration",
+       "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Insurance",
+       "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Covenant Not To Sue",
+       "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Third Party Beneficiary",
+       "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+       "answers": [],
+       "is_impossible": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT",
+   "paragraphs": [
+    {
+     "context": "Exhibit 1\n\nJOINT FILING AGREEMENT\n\nThe undersigned hereby agree to jointly prepare and file with the applicable regulatory authorities this Schedule 13G or Schedule 13D and any future amendments thereto reporting each of the undersigned's ownership of securities of the issuer named herein, and hereby affirm that such Schedule 13G or Schedule 13D is being filed on behalf of each of the undersigned pursuant to and in accordance with the provisions of Rule 13d-1(k) under the Securities Exchange Act of 1934. The undersigned acknowledge that each shall be responsible for the timely filing of such amendments, and for the completeness and accuracy of the information concerning her or it contained therein, but shall not be responsible for the completeness and accuracy of the information concerning the other, except to the extent that she or it knows or has reason to believe that such information is inaccurate.\n\nDated: March 27, 2020.\n\n/s/ Shelby J. Butterfield Shelby J. Butterfield\n\nBUTTERFIELD FAMILY TRUST\n\nBy: /s/ Shelby J. Butterfield Shelby J. Butterfield Co-Trustee\n\n1",
+     "qas": [
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Document Name",
+       "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+       "answers": [
+        {
+         "text": "JOINT FILING AGREEMENT",
+         "answer_start": 11
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Parties",
+       "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+       "answers": [
+        {
+         "text": "Co-Trustee",
+         "answer_start": 1068
+        },
+        {
+         "text": "Shelby J. Butterfield",
+         "answer_start": 945
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Agreement Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+       "answers": [
+        {
+         "text": "March 27, 2020.",
+         "answer_start": 924
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Effective Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Expiration Date",
+       "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Renewal Term",
+       "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Notice Period To Terminate Renewal",
+       "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Governing Law",
+       "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Most Favored Nation",
+       "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Non-Compete",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Exclusivity",
+       "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__No-Solicit Of Customers",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Competitive Restriction Exception",
+       "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__No-Solicit Of Employees",
+       "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Non-Disparagement",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Termination For Convenience",
+       "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Rofr/Rofo/Rofn",
+       "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Change Of Control",
+       "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Anti-Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Revenue/Profit Sharing",
+       "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Price Restrictions",
+       "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Minimum Commitment",
+       "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Volume Restriction",
+       "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Ip Ownership Assignment",
+       "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Joint Ip Ownership",
+       "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__License Grant",
+       "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Non-Transferable License",
+       "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Affiliate License-Licensor",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Affiliate License-Licensee",
+       "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Unlimited/All-You-Can-Eat-License",
+       "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Irrevocable Or Perpetual License",
+       "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Source Code Escrow",
+       "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Post-Termination Services",
+       "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Audit Rights",
+       "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Uncapped Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Cap On Liability",
+       "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Liquidated Damages",
+       "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Warranty Duration",
+       "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Insurance",
+       "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Covenant Not To Sue",
+       "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Third Party Beneficiary",
+       "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+       "answers": [],
+       "is_impossible": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
